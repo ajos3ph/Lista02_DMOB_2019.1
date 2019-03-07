@@ -1,0 +1,23 @@
+.adidas{
+    width: 170px;
+    height: 153px;
+    background-image: url(adidas_preto.jpg)
+}
+ 
+.adidas:hover{
+    background-image: url(adidas_mudado.jpg)
+}
+
+.master{
+    width: 170px;
+    height: 130px;
+    background-image: url(master_normal.jpg)
+}
+ 
+.master:hover{
+    background-image: url(master_mudado.jpg)
+}
+
+.right{
+    float:center;
+}

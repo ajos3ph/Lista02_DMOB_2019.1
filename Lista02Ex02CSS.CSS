@@ -1,0 +1,57 @@
+a:link.a1{
+    text-decoration: none;
+}
+
+a:link.b2{
+   text-decoration: overline; 
+}
+
+a:active.b2{
+    text-decoration: line-through;
+}
+
+a:visited.b2{
+    text-decoration: underline;
+}
+
+
+.c3{
+    color:orange;
+    text-decoration: none;
+}
+
+a:hover.c3{
+    text-decoration: underline;
+    color:green;
+}
+
+.d4{
+    border:solid 1px blue;
+    color:white;
+    background:black;
+}
+
+a:hover.d4{
+    border:dotted 1px black;
+    color:black;
+    background:white;
+}
+
+.e5{
+    color:red;
+    text-decoration: none;
+}
+
+a:visited.e5{
+    color:orange;
+    font-style: italic, bold;
+    text-decoration: none;
+}
+
+a:hover.e5{
+    text-decoration: underline;
+}
+
+a:active.e5{
+    color:yellow;
+}

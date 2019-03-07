@@ -1,0 +1,35 @@
+body{
+
+}
+
+header{
+    width: 60%;
+    height: 400px;
+    border-left-width: 20em;
+    border-left-color: green;
+    border-left-style: solid;
+
+    border-right-width: 20em;
+    border-right-color: red;
+    border-right-style: solid;
+    font-size: 12px; 
+    letter-spacing: 3em;
+    word-spacing: 4ex;
+    line-height: 3em;
+    text-justify: auto;
+    font-family: Verdana;
+    
+}
+
+:first-letter{
+    font-size: 36px;
+    color: blue;
+    text-decoration: overline;
+
+}
+
+:first-line{
+    text-decoration: underline;
+    text-transform: uppercase;
+
+}
